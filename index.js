@@ -13,7 +13,7 @@ var moveinterval = 2; // 2 second movement interval
 var maxrandom = 5; // 0-5 seconds added to movement interval (randomly)
 var host = data["ip"];
 var username = data["name"]
-var nightskip = data["night-skip"]
+var nightskip = data["auto-night-skip"]
 var bot = mineflayer.createBot({
   host: host,
   username: username
