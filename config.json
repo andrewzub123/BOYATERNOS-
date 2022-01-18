@@ -2,5 +2,5 @@
 	"ip":"DARKMAINLAND.aternos.me",
 	"port": "38706",
 	"name": "martin",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
