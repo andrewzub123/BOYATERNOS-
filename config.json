@@ -1,6 +1,6 @@
 {
 	"ip":"LNDOUTBREAK.aternos.me",
 	"port": "38706",
-	"name": "SERVER",
+	"name": "server",
 	"auto-night-skip":"true"
 }
